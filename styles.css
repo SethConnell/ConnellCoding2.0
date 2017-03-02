@@ -57,6 +57,7 @@ html, body {
 }
 
 .projectdesc {
+    margin-left: 30px;
     text-align: center;
     font-size: 4.3vw;
     display: inline-flex;
